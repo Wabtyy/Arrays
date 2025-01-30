@@ -1,0 +1,14 @@
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\muellerj\Desktop\LF05\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
